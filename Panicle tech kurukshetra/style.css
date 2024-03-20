@@ -1,0 +1,179 @@
+.ourservices {
+  display: flex;
+  flex-wrap: wrap;
+
+  width: 800px;
+  margin-left: 390px;
+  margin-top: 20px;
+  height: 500px;
+}
+
+.ourservices .card {
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.heading {
+  margin-left: 650px;
+  margin-top: 20px;
+}
+
+.heading button {
+  margin-left: 80px;
+  background: #0f87e3;
+  border-radius: 5px;
+  height: 30px;
+}
+
+.box1 {
+  display: flex;
+  margin-top: 50px;
+}
+
+.box1 img {
+  margin-left: 20px;
+}
+
+.box1 .content {
+  margin-top: 10px;
+  margin-left: 100px;
+}
+
+.box1 .content button {
+  background: #1e5b7a;
+  color: white;
+}
+
+.box1 .content h3 {
+  color: #1e5b7a;
+}
+
+.box1 .content h4 {
+  color: #1e5b7a;
+}
+
+.box1 .content p {
+  color: #1e1e1e;
+}
+
+.card .card-body img {
+  height: 30px;
+  border-radius: 50px;
+  margin: 5px;
+}
+
+.box2 {
+  display: flex;
+  margin-top: 50px;
+}
+
+.box2 img {
+  height: 500px;
+}
+
+.box2 .content {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.ourcorefeature {
+  width: 1200px;
+  margin-left: 170px;
+}
+
+.ourservices2 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1200px;
+  margin-top: 10px;
+  margin-left: 90px;
+}
+
+.ourservices2 .card {
+  margin: 10px;
+  border-radius: 20px;
+  background: #3D4966;
+  color: white;
+  padding: 30px;
+}
+
+.latestnews {
+  display: flex;
+  margin-left: 280px;
+  margin-top: 30px;
+  background: #FFFFFF;
+}
+
+.latestnews .card {
+  margin-left: 10px;
+  border-radius: 20px;
+}
+
+.heading {
+  margin-left: 640px;
+}
+
+.service {
+  height: 600px;
+  background: #242E49;
+  width: 1200px;
+  margin-left: 200px;
+  border-radius: 20px;
+}
+
+.personalyourhealth {
+  background: #0F67FE;
+  color: white;
+}
+
+.head {
+  display: flex;
+  width: 1000px;
+  margin-left: 300px;
+  margin-top: 40px;
+}
+
+.footersec {
+  height: 500px;
+
+
+  background: #242E49;
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.footersec .link {
+  margin-top: 100px;
+}
+
+.footersec .link a {
+  margin-left: 200px;
+  text-decoration: none;
+  color: white;
+  padding-top: 30px;
+}
+
+.darkbox {
+  margin-top: 20px;
+  padding-top: 100px;
+
+}
+
+.darkbox .finput {
+  padding-left: 250px;
+}
+
+
+.icon{
+  margin-left: 600px;
+}
+
+.icon img{
+  height: 30px;
+  border-radius: 50px;
+  margin-left: 20px;
+  margin-top: 100px;
+}
